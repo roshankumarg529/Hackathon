@@ -15,7 +15,8 @@
 * **PUBLIC LB RANK &nbsp;&nbsp;: 13**
 * **PRIVATE LB RANK &nbsp;: 15**
 
-**LINK to LB** **: https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/leaderboard**
+* **LINK to LB** **: https://machinehack.com/hackathons/data_hack_mathcothon_car_price_prediction_challenge/leaderboard**
+* **Profile link** : https://machinehack.com/user/profile/ui/5f1403288525d9a278de6841
 
 # Problem statement
 
